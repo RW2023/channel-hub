@@ -10,7 +10,7 @@ const Footer: FC<Props> = (props): JSX.Element => {
             <footer className="footer footer-center bg-primary text-headline text-xl dark:bg-black dark:text-white p-4">
                 <aside>
                     <p>
-                        Copyright © {new Date().getFullYear()} - RW2024
+                        Copyright © {new Date().getFullYear()} - Company
                     </p>
                     <div className="flex justify-center space-x-6 mt-4">
                         <a href="https://www.facebook.com/yourpage" className="text-black dark:text-white text-3xl">

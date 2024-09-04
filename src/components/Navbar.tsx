@@ -69,7 +69,7 @@ const Navbar = () => {
                                 />
                             </Link>
                             {/* Company Name */}
-                            <span className="ml-2">RW2024</span>
+                            <span className="ml-2">Company</span>
                         </div>
                     </span>
                 </Link>
