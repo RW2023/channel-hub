@@ -21,15 +21,15 @@ function ContactForm() {
     return (
        
             <div className="contact relative w-full flex items-center justify-center py-20">
-                <Image
-                    src="/aboutBackground.jpg"
-                    alt="Background"
-                    layout="fill"
-                    objectFit="cover"
-                    className="absolute inset-0 z-0"
-                    quality={100}
-                    priority
-                />
+            <Image
+                src="https://via.placeholder.com/1920x1080?text=Contact+Background" // Replace with your image URL
+                alt="Background"
+                layout="fill"
+                objectFit="cover"
+                className="absolute inset-0 z-0"
+                quality={100}
+                priority
+            />
                 <div className="absolute inset-0 bg-black opacity-50"></div>
                 <div className="container mx-auto px-6 relative z-10">
                     <h2 className="text-4xl font-bold text-center mb-8 text-white">Get in Touch</h2>
