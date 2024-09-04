@@ -1,3 +1,24 @@
+
+# Channel Site Template
+
+Welcome to the Channel Site Template! This template is designed to help you quickly set up a modern, customizable website. It features a responsive navigation bar, a customizable hero section, and a signup section to capture user interest. 
+
+## Features
+
+- **Responsive Navbar:** Includes navigation links and a toggle button for mobile view.
+- **Hero Section:** Features a full-width background image with a call-to-action button.
+- **Signup Section:** Allows users to sign up for updates with a customizable form.
+- **Placeholder Content:** Includes sample text and images to guide customization.
+
+## Getting Started
+
+Follow these steps to set up and customize your template:
+
+1. Use This Template
+Click the "Use this template" button on GitHub to create a new repository with this template. This will set up a copy of this project under your GitHub account.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
