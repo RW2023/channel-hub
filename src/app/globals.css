@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  color: var(--foreground, #000);
+  /* Fallback to black if --foreground is not defined */
+  background: linear-gradient(to bottom,
+      transparent,
+      var(--background-end, #fff)
+      /* Fallback to white if --background-end is not defined */
+    ) var(--background-start, #f0f0f0);
+  /* Fallback to a light gray if --background-start is not defined */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Poppins', sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
