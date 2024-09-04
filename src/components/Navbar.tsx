@@ -123,6 +123,11 @@ const Navbar = () => {
                             Blog
                         </span>
                     </Link>
+                    <Link href="/video" onClick={closeNavbar}>
+                        <span className="block mt-4 lg:inline-block lg:mt-0 text-black dark:text-white text-xl hover:underline mr-4 cursor-pointer">
+                            Videos
+                        </span>
+                    </Link>
                     <Link href="/contact" onClick={closeNavbar}>
                         <span className="block mt-4 lg:inline-block lg:mt-0 text-black dark:text-white text-xl hover:underline mr-4 cursor-pointer">
                             Contact
