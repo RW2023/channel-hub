@@ -1,7 +1,7 @@
 
 export const socialLinks = [
-  { title: 'My YouTube Channel', url: 'https://youtube.com/mychannel', logo: '/youtube.webp', description: 'Watch my videos on YouTube.', keywords: ['youtube', 'videos', 'channel'] },
-  { title: 'Follow me on TikTok', url: 'https://tiktok.com/@myprofile', logo: '/tiktok.png', description: 'Follow my TikTok for short clips.', keywords: ['tiktok', 'clips', 'profile'] },
+  // { title: 'My YouTube Channel', url: 'https://youtube.com/mychannel', logo: '/youtube.webp', description: 'Watch my videos on YouTube.', keywords: ['youtube', 'videos', 'channel'] }, // Example link uncomment to use
+  // { title: 'Follow me on TikTok', url: 'https://tiktok.com/@myprofile', logo: '/tiktok.png', description: 'Follow my TikTok for short clips.', keywords: ['tiktok', 'clips', 'profile'] }, // Example link uncomment to use
   { title: 'Check out my blog', url: '/blog', logo: '/logo.webp', description: 'Read my latest blog posts.', keywords: ['blog', 'posts', 'writing'] },
 ];
 

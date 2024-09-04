@@ -17,7 +17,7 @@ const Page: FC<Props> = (props): JSX.Element => {
     } = links;
 
     const allLinks = [
-        { title: "Home Office", description: "Essential items for a comfortable home office.", links: homeOfficeLinks },
+        // { title: "Home Office", description: "Essential items for a comfortable home office.", links: homeOfficeLinks }, // Uncomment this line to add a new category and follow the same pattern
         { title: "Social Links", description: "Connect with me on social media.", links: socialLinks },
     ];
 
