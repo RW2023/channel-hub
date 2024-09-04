@@ -1,8 +1,11 @@
 import withMDX from '@next/mdx';
 
+/** @type {import('next').NextConfig} */
 const nextConfig = {
   pageExtensions: ['js', 'jsx', 'ts', 'tsx', 'md', 'mdx'],
-  // Other Next.js configurations can go here if needed
+  images: {
+    domains: ['via.placeholder.com'],
+  },
 };
 
 export default withMDX({
