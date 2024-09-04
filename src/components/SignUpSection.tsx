@@ -8,14 +8,14 @@ const SignupSection: React.FC = () => {
             <div
                 id="parallax-background"
                 className="absolute top-0 left-0 w-full h-full bg-cover bg-center"
-                style={{ backgroundImage: 'url("/brandBackground.JPG")' }}
+                style={{ backgroundImage: 'url("https://via.placeholder.com/1920x1080?text=Background")' }}
             ></div>
             <div id="form" className="relative bg-white dark:bg-dark-background p-8 rounded-lg shadow-lg max-w-lg w-full text-center outline drop-shadow-md z-10">
                 <h1 className="text-3xl font-poppins font-bold mb-4 text-black dark:text-dark-headline">
-                    Join Our Tech & Culture Community
+                    Channel Site Signup
                 </h1>
                 <p className="mb-6 text-gray-700 dark:text-dark-paragraph">
-                    Stay Ahead with Weekly Insights & Exclusive Content!
+                    Customize this section to include your signup form and encourage users to join your mailing list. Tailor the message to fit your site&rsquo;s theme and audience.
                 </p>
                 <SignupForm />
             </div>
