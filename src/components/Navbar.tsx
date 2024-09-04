@@ -61,7 +61,7 @@ const Navbar = () => {
                             {/* Logo Image */}
                             <Link href="/">
                                 <Image
-                                    src="/logo.webp"
+                                    src="https://via.placeholder.com/60x60?text=Logo"
                                     alt="Logo"
                                     width={60}
                                     height={60}
