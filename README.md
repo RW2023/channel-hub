@@ -1,7 +1,7 @@
 
 # Channel Site Template
 
-Welcome to the Channel Site Template! This template is designed to help you quickly set up a modern, customizable website. It features a responsive navigation bar, a customizable hero section, and a signup section to capture user interest. 
+Welcome to the Channel Site Template! This template is designed to help you quickly set up a modern, customizable website that features a blog and a linktree type section. It features a responsive navigation bar, a customizable hero section, and a signup section to capture user interest. 
 
 ## Features
 
